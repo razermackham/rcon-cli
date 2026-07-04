@@ -1,6 +1,6 @@
 module github.com/gorcon/rcon-cli
 
-go 1.23.0
+go 1.25.0
 
 require (
 	github.com/gorcon/rcon v1.3.5
@@ -18,5 +18,5 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/xrash/smetrics v0.0.0-20231213231151-1d8dd44e695e // indirect
-	golang.org/x/net v0.38.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
 )
